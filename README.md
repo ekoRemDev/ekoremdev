@@ -14,3 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Trivia Quiz App
+
+Zuni Trivia Quiz App Google Play Store 
+
+App Ui is created in Flutter
+
+
+## v0.1.0
+
+ > Firebase Authentication is created
+
+
+
+## Getting Started
+
+
+* [x] Authentication 
+
+  * [x] User Registration Email
+  * [x] Anonymous Registration
+  * [ ] User Registration GMail
+  * [ ] User Registration Facebook
+  * [ ] Help Screens
+  
+  
+* [x] General 
+
+  * [ ] Help Screens
+  
+  
+* [x] Game 
+
+  * [ ] Play Game
+  * [ ] Video Questions
+  * [ ] Audio Questions
+  * [ ] Photo Questions
+  * [ ] Text Questions
+  * [ ] Practice Game
+  * [ ] Game History
+  * [ ] Help Screens
+  
+  
+* [ ] Google 
+
+  * [ ] Firebase Account Integration
+  * [ ] Admob Integration
+  
+  
+### Screenshots
