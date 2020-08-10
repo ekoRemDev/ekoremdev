@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Trivia Quiz App
 
-Zuni Trivia Quiz App Google Play Store 
+Trivia Quiz App
 
 App Ui is created in Flutter
 
@@ -49,10 +49,10 @@ App Ui is created in Flutter
 * [x] Game 
 
   * [ ] Play Game
-  * [ ] Video Questions
-  * [ ] Audio Questions
-  * [ ] Photo Questions
-  * [ ] Text Questions
+  * [X] Video Questions
+  * [X] Audio Questions
+  * [X] Photo Questions
+  * [X] Text Questions
   * [ ] Practice Game
   * [ ] Game History
   * [ ] Help Screens
@@ -60,7 +60,7 @@ App Ui is created in Flutter
   
 * [ ] Google 
 
-  * [ ] Firebase Account Integration
+  * [X] Firebase Account Integration
   * [ ] Admob Integration
   
   
