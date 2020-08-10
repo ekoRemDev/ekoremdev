@@ -31,6 +31,11 @@ App Ui is created in Flutter
 
 ## Getting Started
 
+* [ ] Backend Technologies
+
+  * [ ] Java Spring Boot
+  * [ ] MySql Database
+  
 
 * [x] Authentication 
 
