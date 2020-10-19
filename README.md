@@ -70,3 +70,10 @@ App Ui is created in Flutter
   
   
 ### Screenshots
+
+## Quiz App
+######  
+<img src="quzapp/001.jpg" width="250">
+
+
+
